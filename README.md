@@ -2,7 +2,7 @@ Role Versioning Example
 -----------------------
 
 Very simple role for demonstrating versioning
-
+  
 Role variables
 ==============
 
